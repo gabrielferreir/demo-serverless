@@ -6,3 +6,7 @@
 
 #### Links úteis
 * [Deploying a serverless REST API with Node.js, AWS Lambda, API Gateway, RDS and PostgreSQL.](https://medium.com/swlh/creating-a-serverless-rest-api-with-node-js-aws-lambda-api-gateway-rds-and-postgresql-303b0baac834)
+
+* [Build an API with Node.js, AWS Lambda, and Couchbase with Nic Raboy | JavaScriptLA](https://www.youtube.com/watch?v=d6gyTTUENTo)
+
+
