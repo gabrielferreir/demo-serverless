@@ -1,14 +1,15 @@
 {
-  "name": "lambda-api",
+  "name": "demo-serverless",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cep": "lambda-local -l index.js -h handler -e data.js"
+    "start": "serverless offline"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "serverless": "^1.59.3",
     "serverless-offline": "^5.12.1"
   },
   "dependencies": {
