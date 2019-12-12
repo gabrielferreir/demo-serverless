@@ -1,0 +1,18 @@
+{
+  "name": "lambda-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cep": "lambda-local -l index.js -h handler -e data.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^5.12.1"
+  },
+  "dependencies": {
+    "pg": "^7.14.0",
+    "pg-promise": "^10.3.1"
+  }
+}
